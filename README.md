@@ -1,2 +1,2 @@
-# Curso-de-Programacion-Basica
+# CursodeProgramacionBasica
 Programacion basica iniciando con Python
